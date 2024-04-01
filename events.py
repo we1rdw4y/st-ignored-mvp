@@ -14,7 +14,7 @@ EVENTS = [
     # "FolderSummary",
     # "FolderWatchStateChanged",
     "LocalChangeDetected",
-    # "LocalIndexUpdated",
+    "LocalIndexUpdated",
     "RemoteChangeDetected",
     # "RemoteIndexUpdated"
 ]
